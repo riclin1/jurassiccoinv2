@@ -1,7 +1,7 @@
-FooCoin (FOO)
+JurassicCoin (JUR)
 ===========
 
-[![Build Status](https://travis-ci.org/RazorLove/foocoin.png?branch=master)](https://travis-ci.org/RazorLove/foocoin)
+[![Build Status](https:)
 
 
-Scrypt Hashcash PoW Template
+Scrypt Hashcash PoW
